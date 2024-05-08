@@ -9,13 +9,3 @@ GtHome >> explainableSystemsSection [
 		priority: 10;
 		yourself
 ]
-
-{ #category : #'*PaperExplainableSystemsVissoft2022' }
-GtHome >> moldableExceptionsSection [
-	<gtHomeSection>
-	<gtExample>
-	<noTest>
-	^ MEHomeSection new
-		priority: 10;
-		yourself
-]
